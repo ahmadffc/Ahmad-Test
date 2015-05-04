@@ -1,4 +1,4 @@
-nclude <iostream>
+#include <iostream>
 
 void plot_N()
 {
